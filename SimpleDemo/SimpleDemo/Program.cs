@@ -14,6 +14,7 @@ namespace SimpleDemo
             Adition add = new Adition();
             add.Mul();
             add.sum();
+            add.Div();
         }
     }
 }

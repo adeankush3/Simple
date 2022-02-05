@@ -21,5 +21,9 @@ namespace SimpleDemo
         {
             add=num1+ num2;
         }
+        public void Div()
+        {
+            sub = num1 / num2;
+        }
     }
 }
