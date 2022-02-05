@@ -17,5 +17,9 @@ namespace SimpleDemo
         {
 
         }
+        public void Mul()
+        {
+            add=num1+ num2;
+        }
     }
 }
