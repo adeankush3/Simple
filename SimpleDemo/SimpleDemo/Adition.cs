@@ -9,6 +9,13 @@ namespace SimpleDemo
     public class Adition
     {
         int num1, num2, add, sub;
-        public void sum() { }
+        public void sum()
+        {
+            num1 = 0;
+        }
+        public void ad()
+        {
+
+        }
     }
 }
